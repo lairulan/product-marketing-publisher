@@ -1,0 +1,279 @@
+# 品牌基础信息
+name: "向日葵纯手工制作"
+name_en: "Sunflower Handmade"
+industry: "手工食品/养生食品"
+slogan: "手工制作无任何添加剂"
+
+# 品牌核心特征
+brand_story: |
+  纯手工制作，无任何���加剂，产量有限。
+  所有产品不一定有现货，不接急单，支持提前预定。
+
+# 产品信息
+products:
+  # ===== 养生食品 =====
+  - name: "姜糖茶"
+    category: "养生食品"
+    variants:
+      - name: "原味"
+        price: "120元/瓶"
+      - name: "当归味"
+        price: "130元/瓶"
+    selling_points:
+      - "纯手工熬制"
+      - "无添加剂"
+      - "暖胃驱寒"
+    target_audience: "注重养生的女性、体寒人群、冬季暖身需求"
+    usage_scenarios:
+      - "冬天手脚冰凉来一杯"
+      - "经期暖身调理"
+      - "日常办公室养生茶饮"
+
+  - name: "山楂六物膏"
+    category: "养生食品"
+    price: "78元/瓶"
+    selling_points:
+      - "健脾开胃"
+      - "纯手工古法熬制"
+      - "适合消化不良人群"
+    target_audience: "脾胃虚弱人群、儿童开胃、养生爱好者"
+    usage_scenarios:
+      - "孩子不爱吃饭"
+      - "饭后消食"
+
+  - name: "川贝枇杷膏"
+    category: "养生食品"
+    price: "88元/瓶"
+    selling_points:
+      - "润肺止咳"
+      - "手工慢熬"
+      - "换季必备"
+    target_audience: "易咳嗽人群、烟嗓人群、换季养护"
+    usage_scenarios:
+      - "换季喉咙不舒服"
+      - "秋冬润肺养护"
+
+  - name: "柠檬膏"
+    category: "养生食品"
+    variants:
+      - name: "川贝陈皮味"
+        price: "79元/瓶"
+      - name: "西洋参味"
+        price: "138元/瓶"
+    selling_points:
+      - "美白养颜"
+      - "清热润肺"
+      - "手工慢火熬制"
+    target_audience: "爱美女性、养生人群"
+    usage_scenarios:
+      - "日常冲泡饮用"
+      - "夏天解暑"
+
+  - name: "月禧膏"
+    category: "养生食品"
+    price: "438元/盒"
+    selling_points:
+      - "产后调理专用"
+      - "精选滋补食材"
+      - "手工定制"
+    target_audience: "产后妈妈、月子调理"
+    usage_scenarios:
+      - "产后身体恢复"
+      - "送礼佳品"
+
+  - name: "黑芝麻丸"
+    category: "养生食品"
+    price: "100元/三包"
+    selling_points:
+      - "乌发养颜"
+      - "手工搓丸"
+      - "方便携带"
+    target_audience: "脱发困扰人群、养生零食爱好者"
+    usage_scenarios:
+      - "办公室养生小零食"
+      - "日常补充黑芝麻营养"
+
+  - name: "阿胶糕"
+    category: "养生食品"
+    variants:
+      - name: "原味"
+        price: "388元/盒"
+      - name: "玫瑰味"
+        price: "398元/盒"
+    selling_points:
+      - "补血养颜"
+      - "精选阿胶原料"
+      - "手工切制"
+    target_audience: "气血不足女性、养生送礼"
+    usage_scenarios:
+      - "日常补气血"
+      - "年节送长辈"
+
+  - name: "秋梨膏"
+    category: "养生食品"
+    price: "88元/瓶"
+    selling_points:
+      - "润肺生津"
+      - "手工古法熬制"
+      - "秋冬养生首选"
+    target_audience: "秋冬养生人群、干燥气候地区"
+    usage_scenarios:
+      - "秋冬润燥"
+      - "嗓子干痒"
+
+  # ===== 麻辣开味 =====
+  - name: "秘制牛肉酱"
+    category: "麻辣开味"
+    price: "60元/两瓶"
+    selling_points:
+      - "秘制配方"
+      - "真材实料大块牛肉"
+      - "下饭神器"
+    target_audience: "爱吃辣的年轻人、拌饭拌面爱好者"
+    usage_scenarios:
+      - "拌饭拌面"
+      - "配馒头早餐"
+
+  - name: "麻辣毛毛鱼"
+    category: "麻辣开味"
+    price: "90元/两瓶"
+    selling_points:
+      - "麻辣鲜香"
+      - "手工制作"
+      - "追剧零食"
+    target_audience: "零食爱好者、麻辣口味人群"
+    usage_scenarios:
+      - "追剧小零食"
+      - "佐餐开胃"
+
+  - name: "黄豆酱"
+    category: "麻辣开味"
+    price: "70元/两瓶"
+    selling_points:
+      - "传统工艺发酵"
+      - "鲜香浓郁"
+      - "百搭调味"
+    target_audience: "家庭主妇、烹饪爱好者"
+    usage_scenarios:
+      - "炒菜调味"
+      - "蘸酱配菜"
+
+  - name: "脆辣木瓜丝"
+    category: "麻辣开味"
+    price: "48元/两瓶"
+    selling_points:
+      - "爽脆可口"
+      - "开胃下饭"
+      - "性价比高"
+    target_audience: "爱吃小菜的人群、学生党"
+    usage_scenarios:
+      - "早餐配粥"
+      - "下饭小菜"
+
+  # ===== 网红烘焙甜品 =====
+  - name: "网红烘焙甜品套装"
+    category: "网红烘焙甜品"
+    price: "100元/三包"
+    variants:
+      - name: "雪花酥"
+      - name: "糯米船"
+      - name: "太妃糖"
+      - name: "牛轧饼"
+    selling_points:
+      - "手工现做"
+      - "网红爆款"
+      - "送礼体面"
+    target_audience: "甜品爱好者、送礼人群、年轻女性"
+    usage_scenarios:
+      - "下午茶甜点"
+      - "伴手礼/送礼"
+
+  - name: "蛋黄酥"
+    category: "网红烘焙甜品"
+    price: "12元/个"
+    selling_points:
+      - "手工包制"
+      - "蛋黄流心"
+      - "酥脆掉渣"
+    target_audience: "烘焙甜品爱好者"
+    usage_scenarios:
+      - "下午茶"
+      - "中秋送礼"
+
+  - name: "广式蛋黄月饼"
+    category: "网红烘焙甜品"
+    price: "以当年中秋定价为准"
+    selling_points:
+      - "应季限定"
+      - "手工制作"
+      - "传统广式工艺"
+    target_audience: "中秋送礼人群"
+    usage_scenarios:
+      - "中秋节送礼"
+      - "家庭团圆"
+
+# 品牌调性
+tone: "温暖亲切"
+keywords:
+  - "手工制作"
+  - "无添加剂"
+  - "养生食品"
+  - "纯手工"
+  - "古法熬制"
+  - "健康零食"
+competitors:
+  - "李子柒"
+  - "老金磨方"
+  - "固本堂"
+
+# 内容规范
+taboo:
+  - "最好的"
+  - "第一"
+  - "绝对"
+  - "药效"
+  - "治疗"
+  - "包治"
+  - "贬低竞品"
+  - "虚假功效宣传"
+preferred_topics:
+  - "手工匠心制作过程"
+  - "食材产地溯源"
+  - "养生知识科普"
+  - "季节性养生（换季/冬补/秋燥）"
+  - "送礼场景"
+  - "真实用户口碑"
+  - "传统食疗文化"
+
+# 内容约束
+content_rules:
+  - "不得宣传任何医疗功效，只能说'传统食养''日常养护'"
+  - "强调'手工制作、无添加剂'的核心卖点"
+  - "提及'产量有限、支持预定'增加稀缺感"
+  - "价格信息可适当提及但不要变成价格表"
+  - "每篇文章聚焦1-2个品类，不要罗列全部产品"
+  - "多用生活场景描写，少用产品参数堆砌"
+  - "养生食品类需结合时令节气话题"
+
+# 三大品类营销策略
+category_strategy:
+  养生食品:
+    angle: "时令养生+传统食疗智慧"
+    tone: "温暖关怀、专业可信"
+    hook: "换季/节气/天气变化切入"
+  麻辣开味:
+    angle: "下饭神器+吃货分享"
+    tone: "轻松活泼、馋人口水"
+    hook: "美食场景/深夜放毒/办公室零食"
+  网红烘焙甜品:
+    angle: "手作温度+送礼心意"
+    tone: "精致甜美、仪式感"
+    hook: "下午茶/节日送礼/闺蜜分享"
+
+# 发布配置
+wechat_appid: "wx4f066f9ca4f1d47a"
+wechat_api_key: "xhs_62631ec745dba1bf0e947bc664a02246"
+wechat_author: "手工暖食小馆"
+
+# 图片风格偏好
+image_style: "warm"
