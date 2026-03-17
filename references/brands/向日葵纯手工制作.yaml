@@ -271,7 +271,7 @@ category_strategy:
     hook: "下午茶/节日送礼/闺蜜分享"
 
 # 发布配置
-wechat_appid: "wx4f066f9ca4f1d47a"
+wechat_appid: "${WECHAT_APP_ID}"
 wechat_api_key: "xhs_62631ec745dba1bf0e947bc664a02246"
 wechat_author: "手工暖食小馆"
 

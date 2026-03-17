@@ -90,7 +90,7 @@ preferred_topics:
   - "产地溯源"
   - "健康饮食"
 
-wechat_appid: "wx4f066f9ca4f1d47a"
+wechat_appid: "${WECHAT_APP_ID}"
 wechat_author: "手工暖食小馆"
 image_style: "warm"
 ```
