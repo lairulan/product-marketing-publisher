@@ -272,7 +272,7 @@ category_strategy:
 
 # 发布配置
 wechat_appid: "${WECHAT_APP_ID}"
-wechat_api_key: "xhs_62631ec745dba1bf0e947bc664a02246"
+wechat_api_key: "your_wechat_api_key_here"
 wechat_author: "手工暖食小馆"
 
 # 图片风格偏好
